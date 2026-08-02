@@ -1,0 +1,23 @@
+{
+  "runId": "30756708654",
+  "startedAt": "2026-08-02T16:36:01.278Z",
+  "finishedAt": "2026-08-02T16:36:01.333Z",
+  "totalDomains": 212,
+  "up": 131,
+  "down": 40,
+  "degraded": 3,
+  "errors": 0,
+  "sslExpiringSoon": 7,
+  "sslExpired": 0,
+  "dnsIssues": 38,
+  "redirectIssues": 0,
+  "avgResponseTimeMs": 2760,
+  "avgTtfbMs": 2665,
+  "avgHealthScore": 66,
+  "cloudflareCount": 0,
+  "wordpressCount": 0,
+  "screenshotsCaptured": 107,
+  "screenshotsFailed": 24,
+  "incidentsOpened": 20,
+  "incidentsResolved": 17
+}

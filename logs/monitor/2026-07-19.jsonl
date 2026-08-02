@@ -1,0 +1,10 @@
+{"timestamp":"2026-07-19T11:10:19.629Z","level":"info","message":"Loaded shard results","mode":"aggregate","runId":"29684586938","count":1,"anyAborted":false}
+{"timestamp":"2026-07-19T11:10:20.057Z","level":"info","message":"Loaded existing rows","mode":"aggregate","runId":"29684586938","rows":423}
+{"timestamp":"2026-07-19T11:10:20.481Z","level":"info","message":"Wrote domain rows","mode":"aggregate","runId":"29684586938","updated":1,"appended":0}
+{"timestamp":"2026-07-19T11:10:21.502Z","level":"info","message":"Appended incidents","mode":"aggregate","runId":"29684586938","count":1}
+{"timestamp":"2026-07-19T11:10:21.509Z","level":"info","message":"Wrote cache files","mode":"aggregate","runId":"29684586938","files":5}
+{"timestamp":"2026-07-19T16:37:26.333Z","level":"info","message":"Loaded shard results","mode":"aggregate","runId":"29694869629","count":212,"anyAborted":false}
+{"timestamp":"2026-07-19T16:37:27.598Z","level":"info","message":"Loaded existing rows","mode":"aggregate","runId":"29694869629","rows":423}
+{"timestamp":"2026-07-19T16:37:29.224Z","level":"info","message":"Wrote domain rows","mode":"aggregate","runId":"29694869629","updated":212,"appended":0}
+{"timestamp":"2026-07-19T16:37:29.431Z","level":"info","message":"Appended incidents","mode":"aggregate","runId":"29694869629","count":87}
+{"timestamp":"2026-07-19T16:37:29.581Z","level":"info","message":"Wrote cache files","mode":"aggregate","runId":"29694869629","files":5}

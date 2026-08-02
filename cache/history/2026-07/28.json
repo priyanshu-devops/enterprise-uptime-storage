@@ -1,0 +1,11 @@
+{
+  "date": "2026-07-28",
+  "up": 234,
+  "down": 133,
+  "degraded": 10,
+  "total": 424,
+  "avgResponseTimeMs": 5032,
+  "avgTtfbMs": 4887,
+  "avgHealthScore": 62,
+  "availabilityPct": 57.5
+}
