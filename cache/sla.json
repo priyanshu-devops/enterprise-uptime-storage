@@ -1,30 +1,30 @@
 {
-  "generatedAt": "2026-08-02T16:36:01.352Z",
-  "runId": "30756708654",
+  "generatedAt": "2026-08-03T07:30:51.728Z",
+  "runId": "30791127280",
   "fleet": {
-    "24h": 64.78,
-    "7d": 62.18,
-    "30d": 62.43,
-    "90d": 62.43
+    "24h": 60.38,
+    "7d": 61.82,
+    "30d": 62.25,
+    "90d": 62.25
   },
-  "fleetP50Ms": 3339,
-  "fleetP95Ms": 10774,
-  "fleetP99Ms": 15213,
-  "mttrSeconds30d": 202655,
-  "incidentsResolved30d": 340,
+  "fleetP50Ms": 3360,
+  "fleetP95Ms": 10917,
+  "fleetP99Ms": 15739,
+  "mttrSeconds30d": 198617,
+  "incidentsResolved30d": 336,
   "domains": [
     {
       "domain": "aagamdecor.com",
       "uptime": {
         "24h": 100,
         "7d": 100,
-        "30d": 85.71,
-        "90d": 85.71
+        "30d": 87.5,
+        "90d": 87.5
       },
-      "p50Ms": 1764,
+      "p50Ms": 2514,
       "p95Ms": 3851,
       "p99Ms": 3851,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -58,36 +58,36 @@
     {
       "domain": "abdallahfasteners.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 3898,
+      "p50Ms": 3749,
       "p95Ms": 5290,
       "p99Ms": 5290,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "abulailaflanges.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 4228,
+      "p50Ms": 3964,
       "p95Ms": 5606,
       "p99Ms": 5606,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "adamstainless.com",
       "uptime": {
         "24h": 0,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -101,20 +101,20 @@
       "domain": "adarshnickelalloys.com",
       "uptime": {
         "24h": 0,
-        "7d": 66.67,
-        "30d": 57.14,
-        "90d": 57.14
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
       "p50Ms": 4237,
       "p95Ms": 9104,
       "p99Ms": 9104,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "adelflanges.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -122,7 +122,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
@@ -170,21 +170,21 @@
     {
       "domain": "ahmedpipes.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 13655,
       "p95Ms": 14407,
       "p99Ms": 14407,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ahmedsheetsandplates.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -192,35 +192,35 @@
       "p50Ms": 6932,
       "p95Ms": 10644,
       "p99Ms": 10644,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
       "domain": "ahmersteels.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 8766,
       "p95Ms": 11212,
       "p99Ms": 11212,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "aichasheetsandplates.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 6797,
       "p95Ms": 7523,
       "p99Ms": 7523,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -240,22 +240,22 @@
     {
       "domain": "aishanickelalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 3732,
+      "p50Ms": 3994,
       "p95Ms": 4822,
       "p99Ms": 4822,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ajijstainless.id",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -269,7 +269,7 @@
       "domain": "akorstainless.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -282,30 +282,30 @@
     {
       "domain": "alialuminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
       "p50Ms": 4897,
       "p95Ms": 11169,
       "p99Ms": 11169,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "amalaluminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 4048,
       "p95Ms": 5878,
       "p99Ms": 5878,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "amanpipesandtubes.co.in",
@@ -324,7 +324,7 @@
     {
       "domain": "amerstainless.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -332,22 +332,22 @@
       "p50Ms": 4039,
       "p95Ms": 7156,
       "p99Ms": 7156,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "aminfasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 7621,
       "p95Ms": 9754,
       "p99Ms": 9754,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "amirstainless.com",
@@ -366,15 +366,15 @@
     {
       "domain": "anirsheetsandplates.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 1016,
-      "p95Ms": 1545,
-      "p99Ms": 1545,
-      "sampleCount30d": 7,
+      "p95Ms": 1632,
+      "p99Ms": 1632,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -395,7 +395,7 @@
       "domain": "anuchametal.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -408,15 +408,15 @@
     {
       "domain": "anwartubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 10780,
       "p95Ms": 12602,
       "p99Ms": 12602,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -436,49 +436,49 @@
     {
       "domain": "ariafasteners.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
-        "30d": 85.71,
-        "90d": 85.71
+        "30d": 87.5,
+        "90d": 87.5
       },
-      "p50Ms": 4299,
+      "p50Ms": 4456,
       "p95Ms": 8060,
       "p99Ms": 8060,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "arihantnickelalloys.com",
       "uptime": {
         "24h": 0,
-        "7d": 66.67,
-        "30d": 57.14,
-        "90d": 57.14
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
       "p50Ms": 1949,
       "p95Ms": 2795,
       "p99Ms": 2795,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "arikimedia.co.nz",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 5249,
       "p95Ms": 6078,
       "p99Ms": 6078,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "armanfencing.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -486,7 +486,7 @@
       "p50Ms": 3927,
       "p95Ms": 4650,
       "p99Ms": 4650,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -506,7 +506,7 @@
     {
       "domain": "aslamfittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -514,7 +514,7 @@
       "p50Ms": 1966,
       "p95Ms": 6298,
       "p99Ms": 6298,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -548,16 +548,16 @@
     {
       "domain": "ayahdecor.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 3263,
       "p95Ms": 3419,
       "p99Ms": 3419,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "ayhantubefittings.com",
@@ -576,35 +576,35 @@
     {
       "domain": "ayrisfasteners.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 244,
+      "p50Ms": 243,
       "p95Ms": 376,
       "p99Ms": 376,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "aytentubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 16345,
       "p95Ms": 16377,
       "p99Ms": 16377,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "ayushweldingsupplies.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -612,7 +612,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
@@ -626,21 +626,21 @@
       "p50Ms": 4317,
       "p95Ms": 5096,
       "p99Ms": 5096,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "badaraluminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 8314,
       "p95Ms": 8314,
       "p99Ms": 8314,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -660,7 +660,7 @@
     {
       "domain": "barshamnickelalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -668,28 +668,28 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "bassamaluminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
-      "p50Ms": 10815,
-      "p95Ms": 13284,
-      "p99Ms": 13284,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p50Ms": 13284,
+      "p95Ms": 16112,
+      "p99Ms": 16112,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "benjamintubefittings.com",
       "uptime": {
         "24h": 0,
-        "7d": 81.82,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -702,15 +702,15 @@
     {
       "domain": "bereketpipes.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
       "p50Ms": 12841,
-      "p95Ms": 14004,
-      "p99Ms": 14004,
-      "sampleCount30d": 7,
+      "p95Ms": 15006,
+      "p99Ms": 15006,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -745,7 +745,7 @@
       "domain": "bilalfasteners.id",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 55,
         "90d": 55
       },
@@ -758,36 +758,36 @@
     {
       "domain": "bilalnickelalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 9461,
       "p95Ms": 12890,
       "p99Ms": 12890,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "blundellpipes.co.nz",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 4038,
-      "p95Ms": 4326,
-      "p99Ms": 4326,
-      "sampleCount30d": 7,
+      "p95Ms": 5286,
+      "p99Ms": 5286,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "boikanyosheetsandplates.co.za",
       "uptime": {
         "24h": 0,
-        "7d": 40,
+        "7d": 33.33,
         "30d": 65,
         "90d": 65
       },
@@ -829,7 +829,7 @@
       "domain": "bulanpipes.id",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 76.19,
         "90d": 76.19
       },
@@ -842,7 +842,7 @@
     {
       "domain": "callowaymedia.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -850,13 +850,13 @@
       "p50Ms": 8237,
       "p95Ms": 9302,
       "p99Ms": 9302,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "canberrymedia.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -864,14 +864,14 @@
       "p50Ms": 8958,
       "p95Ms": 11394,
       "p99Ms": 11394,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "chanathipnickelalloys.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -885,7 +885,7 @@
       "domain": "chanchaistainless.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -898,15 +898,15 @@
     {
       "domain": "chernetstainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 11752,
       "p95Ms": 16963,
       "p99Ms": 16963,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -920,27 +920,27 @@
       "p50Ms": 5525,
       "p95Ms": 10538,
       "p99Ms": 10538,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "chetansteel.com",
       "uptime": {
         "24h": 0,
-        "7d": 83.33,
-        "30d": 71.43,
-        "90d": 71.43
+        "7d": 71.43,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 5062,
       "p95Ms": 10090,
       "p99Ms": 10090,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "chingfencing.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -948,7 +948,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
@@ -969,7 +969,7 @@
       "domain": "chuansheetsandplates.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -983,7 +983,7 @@
       "domain": "chungmetal.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -997,7 +997,7 @@
       "domain": "conradweldingsupplies.us",
       "uptime": {
         "24h": 0,
-        "7d": 50,
+        "7d": 44.44,
         "30d": 60,
         "90d": 60
       },
@@ -1053,7 +1053,7 @@
       "domain": "dangsteel.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -1067,7 +1067,7 @@
       "domain": "davidpipes.com",
       "uptime": {
         "24h": 0,
-        "7d": 40,
+        "7d": 44.44,
         "30d": 60,
         "90d": 60
       },
@@ -1136,7 +1136,7 @@
     {
       "domain": "dongweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -1144,8 +1144,8 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "DNS_FAILURE"
     },
     {
       "domain": "dungpipes.com",
@@ -1192,15 +1192,15 @@
     {
       "domain": "elaramarketing.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 5551,
-      "p95Ms": 9060,
-      "p99Ms": 9060,
-      "sampleCount30d": 7,
+      "p95Ms": 9274,
+      "p99Ms": 9274,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -1234,15 +1234,15 @@
     {
       "domain": "eshasteel.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 3576,
       "p95Ms": 3576,
       "p99Ms": 3576,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -1276,21 +1276,21 @@
     {
       "domain": "faisalsteel.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 4324,
       "p95Ms": 5749,
       "p99Ms": 5749,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "faisalweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -1298,14 +1298,14 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
-      "status": "DNS_FAILURE"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "fajarmetals.id",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 75,
         "90d": 75
       },
@@ -1318,21 +1318,21 @@
     {
       "domain": "farmaanmarketing.ae",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 5272,
       "p95Ms": 7576,
       "p99Ms": 7576,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "farmanweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -1340,13 +1340,13 @@
       "p50Ms": 223,
       "p95Ms": 611,
       "p99Ms": 611,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "faruqsheetsandplates.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -1354,22 +1354,22 @@
       "p50Ms": 2459,
       "p95Ms": 5214,
       "p99Ms": 5214,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "fatmaweldingsupplies.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 3721,
       "p95Ms": 4379,
       "p99Ms": 4379,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "ferdifittings.com",
@@ -1388,7 +1388,7 @@
     {
       "domain": "fiazpipes.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -1396,7 +1396,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "domain": "ganeshweldingsupplies.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -1438,22 +1438,22 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "gargsteels.com",
       "uptime": {
-        "24h": 0,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
-      "p50Ms": 10622,
+      "p50Ms": 8325,
       "p95Ms": 16871,
       "p99Ms": 16871,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "georgemetals.us",
@@ -1477,10 +1477,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 164,
+      "p50Ms": 162,
       "p95Ms": 6299,
       "p99Ms": 6299,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -1514,58 +1514,58 @@
     {
       "domain": "gugsaflanges.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
       "p50Ms": 17513,
-      "p95Ms": 17885,
-      "p99Ms": 17885,
-      "sampleCount30d": 7,
+      "p95Ms": 19156,
+      "p99Ms": 19156,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "habtamunickelalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
-      "p50Ms": 14338,
+      "p50Ms": 15800,
       "p95Ms": 18714,
       "p99Ms": 18714,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "haideraluminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
-      "p50Ms": 17673,
+      "p50Ms": 13244,
       "p95Ms": 18655,
       "p99Ms": 18655,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "hajjiweldingsupplies.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 4135,
+      "p50Ms": 4379,
       "p95Ms": 5094,
       "p99Ms": 5094,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "hakannickelalloys.com",
@@ -1598,22 +1598,22 @@
     {
       "domain": "hanantubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 3736,
-      "p95Ms": 4337,
-      "p99Ms": 4337,
-      "sampleCount30d": 7,
+      "p50Ms": 3903,
+      "p95Ms": 6880,
+      "p99Ms": 6880,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "harryfittings.us",
       "uptime": {
         "24h": 100,
-        "7d": 60,
+        "7d": 55.56,
         "30d": 66.67,
         "90d": 66.67
       },
@@ -1634,21 +1634,21 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
       "domain": "harshfittings.com",
       "uptime": {
         "24h": 0,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 7382,
       "p95Ms": 13195,
       "p99Ms": 13195,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -1668,7 +1668,7 @@
     {
       "domain": "harshinox.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -1676,7 +1676,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
@@ -1701,38 +1701,38 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 5361,
+      "p50Ms": 5299,
       "p95Ms": 7176,
       "p99Ms": 7176,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "harshmetalloys.com",
       "uptime": {
-        "24h": 0,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
-      "p50Ms": 11044,
-      "p95Ms": 15213,
-      "p99Ms": 15213,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p50Ms": 11404,
+      "p95Ms": 18755,
+      "p99Ms": 18755,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "hashmisheetsandplates.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
-      "p50Ms": 13237,
-      "p95Ms": 13443,
-      "p99Ms": 13443,
-      "sampleCount30d": 7,
+      "p50Ms": 13443,
+      "p95Ms": 16143,
+      "p99Ms": 16143,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -1752,50 +1752,50 @@
     {
       "domain": "hassansteels.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 4581,
       "p95Ms": 11559,
       "p99Ms": 11559,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "hatemfittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
       "p50Ms": 2871,
       "p95Ms": 9989,
       "p99Ms": 9989,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "hazemstainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 100,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 15339,
-      "p95Ms": 15339,
-      "p99Ms": 15339,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p95Ms": 15986,
+      "p99Ms": 15986,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "hazlewoodfasteners.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 100,
         "30d": 90,
         "90d": 90
       },
@@ -1813,10 +1813,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 8396,
+      "p50Ms": 4689,
       "p95Ms": 13984,
       "p99Ms": 13984,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -1827,25 +1827,25 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 4724,
+      "p50Ms": 2984,
       "p95Ms": 9250,
       "p99Ms": 9250,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "heerfittings.com",
       "uptime": {
-        "24h": 0,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 50,
+        "90d": 50
       },
-      "p50Ms": 6778,
+      "p50Ms": 3397,
       "p95Ms": 14697,
       "p99Ms": 14697,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "heerimpex.com",
@@ -1858,22 +1858,22 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "heerinox.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 50,
+        "90d": 50
       },
       "p50Ms": 12618,
-      "p95Ms": 12893,
-      "p99Ms": 12893,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p95Ms": 14307,
+      "p99Ms": 14307,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "heermetalindustries.com",
@@ -1907,7 +1907,7 @@
       "domain": "heermetals.com",
       "uptime": {
         "24h": 0,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -1921,7 +1921,7 @@
       "domain": "heerstainless.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 80,
         "90d": 80
       },
@@ -1948,21 +1948,21 @@
     {
       "domain": "hemimetals.co.nz",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 5590,
+      "p50Ms": 5328,
       "p95Ms": 7953,
       "p99Ms": 7953,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "himanshaluminium.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -1970,7 +1970,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
@@ -2012,21 +2012,21 @@
       "p50Ms": 3726,
       "p95Ms": 6693,
       "p99Ms": 6693,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ihsanaluminium.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 2706,
-      "p95Ms": 2842,
-      "p99Ms": 2842,
-      "sampleCount30d": 7,
+      "p50Ms": 2810,
+      "p95Ms": 3218,
+      "p99Ms": 3218,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2046,29 +2046,29 @@
     {
       "domain": "imranfittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 4952,
       "p95Ms": 7723,
       "p99Ms": 7723,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "iqtabinfotech.qa",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 7338,
       "p95Ms": 9576,
       "p99Ms": 9576,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -2103,7 +2103,7 @@
       "domain": "ismailflanges.id",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 76.19,
         "90d": 76.19
       },
@@ -2124,22 +2124,22 @@
       "p50Ms": 7680,
       "p95Ms": 12679,
       "p99Ms": 12679,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "jassemtubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 14193,
       "p95Ms": 14803,
       "p99Ms": 14803,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "jaxsondecor.co.uk",
@@ -2166,21 +2166,21 @@
       "p50Ms": 1439,
       "p95Ms": 6262,
       "p99Ms": 6262,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "jimafittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 2240,
+      "p50Ms": 2088,
       "p95Ms": 2999,
       "p99Ms": 2999,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2201,7 +2201,7 @@
       "domain": "joeyaluminium.us",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 70,
         "90d": 70
       },
@@ -2214,7 +2214,7 @@
     {
       "domain": "jordanweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -2222,14 +2222,14 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "joshsheetsandplates.com",
       "uptime": {
         "24h": 0,
-        "7d": 40,
+        "7d": 44.44,
         "30d": 50,
         "90d": 50
       },
@@ -2242,7 +2242,7 @@
     {
       "domain": "junaidflanges.ae",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -2250,21 +2250,21 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "junaidmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 8150,
       "p95Ms": 9443,
       "p99Ms": 9443,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -2299,7 +2299,7 @@
       "domain": "kabbyflanges.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 85,
         "90d": 85
       },
@@ -2326,22 +2326,22 @@
     {
       "domain": "kaisanfittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 299,
+      "p50Ms": 297,
       "p95Ms": 340,
       "p99Ms": 340,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "kamronpipes.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -2424,7 +2424,7 @@
     {
       "domain": "karevaluminium.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -2432,14 +2432,14 @@
       "p50Ms": 221,
       "p95Ms": 519,
       "p99Ms": 519,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "kasimsteel.id",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -2466,15 +2466,15 @@
     {
       "domain": "kenzarweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 332,
+      "p50Ms": 273,
       "p95Ms": 488,
       "p99Ms": 488,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2494,15 +2494,15 @@
     {
       "domain": "khaledstainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 9424,
       "p95Ms": 9424,
       "p99Ms": 9424,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -2522,15 +2522,15 @@
     {
       "domain": "khalidfittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 898,
+      "p50Ms": 880,
       "p95Ms": 1725,
       "p99Ms": 1725,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2550,21 +2550,21 @@
     {
       "domain": "khawlaflanges.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 4501,
       "p95Ms": 5510,
       "p99Ms": 5510,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "khoujadecor.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -2572,7 +2572,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
@@ -2634,15 +2634,15 @@
     {
       "domain": "kirialuminium.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
-        "30d": 85.71,
-        "90d": 85.71
+        "30d": 87.5,
+        "90d": 87.5
       },
       "p50Ms": 3975,
       "p95Ms": 5354,
       "p99Ms": 5354,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2677,7 +2677,7 @@
       "domain": "kyogaflanges.com",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 85,
         "90d": 85
       },
@@ -2690,21 +2690,21 @@
     {
       "domain": "lailapipes.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 3541,
-      "p95Ms": 4356,
-      "p99Ms": 4356,
-      "sampleCount30d": 7,
+      "p50Ms": 3562,
+      "p95Ms": 6474,
+      "p99Ms": 6474,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "lathamsteel.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -2712,22 +2712,22 @@
       "p50Ms": 4575,
       "p95Ms": 5100,
       "p99Ms": 5100,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "lathiefpipes.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 7963,
       "p95Ms": 11882,
       "p99Ms": 11882,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "laylasheetsandplates.com",
@@ -2754,14 +2754,14 @@
       "p50Ms": 244,
       "p95Ms": 430,
       "p99Ms": 430,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "lecongstainless.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -2775,7 +2775,7 @@
       "domain": "liampipes.us",
       "uptime": {
         "24h": 0,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 71.43,
         "90d": 71.43
       },
@@ -2802,16 +2802,16 @@
     {
       "domain": "linafasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 4995,
       "p95Ms": 6524,
       "p99Ms": 6524,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "lizaaluminium.com",
@@ -2831,7 +2831,7 @@
       "domain": "louismetals.us",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 71.43,
         "90d": 71.43
       },
@@ -2859,7 +2859,7 @@
       "domain": "lukiesflanges.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -2873,7 +2873,7 @@
       "domain": "lyletubefittings.co.za",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -2887,7 +2887,7 @@
       "domain": "machucafittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -2900,7 +2900,7 @@
     {
       "domain": "majidfasteners.ae",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -2908,35 +2908,35 @@
       "p50Ms": 2799,
       "p95Ms": 4730,
       "p99Ms": 4730,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "malekfittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
       "p50Ms": 3740,
       "p95Ms": 5253,
       "p99Ms": 5253,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "malikfasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 8504,
       "p95Ms": 8504,
       "p99Ms": 8504,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -2961,10 +2961,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1468,
+      "p50Ms": 1436,
       "p95Ms": 8501,
       "p99Ms": 8501,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -2976,9 +2976,9 @@
         "90d": 100
       },
       "p50Ms": 2478,
-      "p95Ms": 3065,
-      "p99Ms": 3065,
-      "sampleCount30d": 7,
+      "p95Ms": 3699,
+      "p99Ms": 3699,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -3026,36 +3026,36 @@
     {
       "domain": "marzouksteel.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
-        "30d": 14.29,
-        "90d": 14.29
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 4347,
       "p95Ms": 4347,
       "p99Ms": 4347,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "masontubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 100,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 0,
+        "7d": 85.71,
+        "30d": 75,
+        "90d": 75
       },
       "p50Ms": 3492,
       "p95Ms": 4163,
       "p99Ms": 4163,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "maungaluminium.com",
       "uptime": {
         "24h": 0,
-        "7d": 50,
+        "7d": 44.44,
         "30d": 35,
         "90d": 35
       },
@@ -3096,15 +3096,15 @@
     {
       "domain": "mazinfasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 4076,
+      "p50Ms": 4134,
       "p95Ms": 4712,
       "p99Ms": 4712,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -3138,7 +3138,7 @@
     {
       "domain": "mehdialuminium.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3146,7 +3146,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -3194,21 +3194,21 @@
     {
       "domain": "minalalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1869,
+      "p50Ms": 1720,
       "p95Ms": 4316,
       "p99Ms": 4316,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "minalmetalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3216,41 +3216,41 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
       "domain": "minalmetals.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1669,
+      "p50Ms": 1564,
       "p95Ms": 2454,
       "p99Ms": 2454,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "minalsteels.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1849,
+      "p50Ms": 1354,
       "p95Ms": 4185,
       "p99Ms": 4185,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "mirzatubefittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3258,28 +3258,28 @@
       "p50Ms": 7070,
       "p95Ms": 12913,
       "p99Ms": 12913,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "mitchellstainless.co.nz",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 4297,
-      "p95Ms": 4566,
-      "p99Ms": 4566,
-      "sampleCount30d": 7,
+      "p95Ms": 4994,
+      "p99Ms": 4994,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "moesheetsandplates.com",
       "uptime": {
         "24h": 0,
-        "7d": 50,
+        "7d": 44.44,
         "30d": 35,
         "90d": 35
       },
@@ -3292,36 +3292,36 @@
     {
       "domain": "mokshmedia.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 4385,
       "p95Ms": 7312,
       "p99Ms": 7312,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "monibstainless.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 5626,
+      "p50Ms": 5229,
       "p95Ms": 10596,
       "p99Ms": 10596,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "moongtubefittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 85,
         "90d": 85
       },
@@ -3334,15 +3334,15 @@
     {
       "domain": "mouradmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 5483,
       "p95Ms": 5712,
       "p99Ms": 5712,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -3367,25 +3367,25 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 2043,
+      "p50Ms": 1161,
       "p95Ms": 4059,
       "p99Ms": 4059,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "muradfasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 100,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 12550,
-      "p95Ms": 12550,
-      "p99Ms": 12550,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p95Ms": 16238,
+      "p99Ms": 16238,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "mustafaaluminium.com",
@@ -3405,7 +3405,7 @@
       "domain": "mustafafasteners.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 90,
         "90d": 90
       },
@@ -3418,15 +3418,15 @@
     {
       "domain": "nabilnickelalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
       "p50Ms": 4316,
-      "p95Ms": 5702,
-      "p99Ms": 5702,
-      "sampleCount30d": 7,
+      "p95Ms": 6775,
+      "p99Ms": 6775,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -3461,7 +3461,7 @@
       "domain": "nakamurastainless.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -3474,21 +3474,21 @@
     {
       "domain": "nasirnickelalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 10957,
       "p95Ms": 12697,
       "p99Ms": 12697,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "nayelnickelalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3496,14 +3496,14 @@
       "p50Ms": 310,
       "p95Ms": 487,
       "p99Ms": 487,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ndidipipes.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -3516,7 +3516,7 @@
     {
       "domain": "neeshamflanges.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3524,7 +3524,7 @@
       "p50Ms": 3990,
       "p95Ms": 5736,
       "p99Ms": 5736,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -3559,7 +3559,7 @@
       "domain": "nguyenfittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -3572,22 +3572,22 @@
     {
       "domain": "niainfotech.co.za",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
-      "p50Ms": 5532,
+      "p50Ms": 7597,
       "p95Ms": 11373,
       "p99Ms": 11373,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "nialsheetsandplates.us",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 71.43,
         "90d": 71.43
       },
@@ -3600,15 +3600,15 @@
     {
       "domain": "niazistainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 8618,
       "p95Ms": 8618,
       "p99Ms": 8618,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -3619,16 +3619,16 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 3907,
+      "p50Ms": 2732,
       "p95Ms": 7918,
       "p99Ms": 7918,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "nileweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3636,56 +3636,56 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "nimishmetal.com",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
       "p50Ms": 4817,
       "p95Ms": 11908,
       "p99Ms": 11908,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "niryapipes.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 288,
+      "p50Ms": 277,
       "p95Ms": 387,
       "p99Ms": 387,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "nizarsheetsandplates.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 2681,
+      "p50Ms": 2705,
       "p95Ms": 3006,
       "p99Ms": 3006,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "njabulostainless.co.za",
       "uptime": {
         "24h": 0,
-        "7d": 60,
+        "7d": 55.56,
         "30d": 75,
         "90d": 75
       },
@@ -3712,7 +3712,7 @@
     {
       "domain": "nooaweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3720,13 +3720,13 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
-      "status": "DNS_FAILURE"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "nurasheetsandplates.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3734,14 +3734,14 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "nwabalialuminium.com",
       "uptime": {
         "24h": 0,
-        "7d": 81.82,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -3782,7 +3782,7 @@
     {
       "domain": "olwannickelalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3790,14 +3790,14 @@
       "p50Ms": 3672,
       "p95Ms": 6031,
       "p99Ms": 6031,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "omaraluminium.id",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 55,
         "90d": 55
       },
@@ -3815,10 +3815,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 3127,
+      "p50Ms": 2931,
       "p95Ms": 8804,
       "p99Ms": 8804,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -3838,7 +3838,7 @@
     {
       "domain": "palakalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3846,27 +3846,27 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "palakinox.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1466,
+      "p50Ms": 1398,
       "p95Ms": 2750,
       "p99Ms": 2750,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "palakmetalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -3874,13 +3874,13 @@
       "p50Ms": 1395,
       "p95Ms": 4168,
       "p99Ms": 4168,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "pauloweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3888,7 +3888,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -3909,7 +3909,7 @@
       "domain": "pengkumtafasteners.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -3923,7 +3923,7 @@
       "domain": "phanuphongsteel.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -3937,7 +3937,7 @@
       "domain": "phehlukwayometal.co.za",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 85,
         "90d": 85
       },
@@ -3958,13 +3958,13 @@
       "p50Ms": 2638,
       "p95Ms": 7338,
       "p99Ms": 7338,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "pipingmart.co.uk",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -3972,7 +3972,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
@@ -3986,14 +3986,14 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "poangfasteners.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 90,
         "90d": 90
       },
@@ -4006,7 +4006,7 @@
     {
       "domain": "prathameshpiping.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4014,7 +4014,7 @@
       "p50Ms": 1705,
       "p95Ms": 3700,
       "p99Ms": 3700,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4048,22 +4048,22 @@
     {
       "domain": "purifasteners.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 3168,
       "p95Ms": 3168,
       "p99Ms": 3168,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "quanflanges.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -4077,7 +4077,7 @@
       "domain": "quyenaluminium.com",
       "uptime": {
         "24h": 100,
-        "7d": 50,
+        "7d": 55.56,
         "30d": 30,
         "90d": 30
       },
@@ -4090,22 +4090,22 @@
     {
       "domain": "rachedflanges.com",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
       "p50Ms": 6279,
       "p95Ms": 18333,
       "p99Ms": 18333,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ragnarweldingsupplies.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -4118,29 +4118,29 @@
     {
       "domain": "ramaluminium.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 4345,
-      "p95Ms": 9724,
-      "p99Ms": 9724,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p50Ms": 6739,
+      "p95Ms": 10011,
+      "p99Ms": 10011,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "rameshwarsteel.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1125,
       "p95Ms": 1125,
       "p99Ms": 1125,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -4151,142 +4151,142 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 7248,
+      "p50Ms": 6556,
       "p95Ms": 11466,
       "p99Ms": 11466,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "ranyastainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 4046,
       "p95Ms": 4076,
       "p99Ms": 4076,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rashdanpipes.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 3916,
+      "p50Ms": 3867,
       "p95Ms": 5490,
       "p99Ms": 5490,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "rashidmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 4528,
       "p95Ms": 4837,
       "p99Ms": 4837,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rathinfotechbangalore.in",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 5286,
       "p95Ms": 7223,
       "p99Ms": 7223,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rathinfotechchennai.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 4217,
       "p95Ms": 4674,
       "p99Ms": 4674,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "rathinfotechdelhi.in",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 9660,
       "p95Ms": 10103,
       "p99Ms": 10103,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "rathinfotechhyderabad.in",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 5090,
       "p95Ms": 6316,
       "p99Ms": 6316,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rathinfotechkolkata.in",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 100,
+        "7d": 85.71,
+        "30d": 87.5,
+        "90d": 87.5
       },
-      "p50Ms": 4929,
-      "p95Ms": 6731,
-      "p99Ms": 6731,
-      "sampleCount30d": 7,
+      "p50Ms": 5234,
+      "p95Ms": 7170,
+      "p99Ms": 7170,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "rathinfotechmumbai.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 5049,
       "p95Ms": 5705,
       "p99Ms": 5705,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "rehmaandigital.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4294,14 +4294,14 @@
       "p50Ms": 7339,
       "p95Ms": 12173,
       "p99Ms": 12173,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "rezadecor.id",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 100,
         "30d": 65,
         "90d": 65
       },
@@ -4314,49 +4314,49 @@
     {
       "domain": "reziqweldingsupplies.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 3365,
+      "p50Ms": 3517,
       "p95Ms": 4001,
       "p99Ms": 4001,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "rinkufasteners.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1339,
       "p95Ms": 1339,
       "p99Ms": 1339,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "riteshalloys.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1670,
+      "p50Ms": 1657,
       "p95Ms": 3037,
       "p99Ms": 3037,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "riteshmetals.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4364,7 +4364,7 @@
       "p50Ms": 1614,
       "p95Ms": 4615,
       "p99Ms": 4615,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4384,29 +4384,29 @@
     {
       "domain": "rizwanflanges.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 7929,
       "p95Ms": 10101,
       "p99Ms": 10101,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "rohanmetals.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1630,
+      "p50Ms": 1555,
       "p95Ms": 4458,
       "p99Ms": 4458,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4426,15 +4426,15 @@
     {
       "domain": "rongkaimedia.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 6725,
-      "p95Ms": 8779,
-      "p99Ms": 8779,
-      "sampleCount30d": 7,
+      "p95Ms": 9711,
+      "p99Ms": 9711,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4462,7 +4462,7 @@
       "p50Ms": 2565,
       "p95Ms": 7301,
       "p99Ms": 7301,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4482,7 +4482,7 @@
     {
       "domain": "rudratubefittings.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -4490,50 +4490,50 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "rupalalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 100,
-        "30d": 85.71,
-        "90d": 85.71
+        "24h": 0,
+        "7d": 85.71,
+        "30d": 75,
+        "90d": 75
       },
       "p50Ms": 1383,
       "p95Ms": 2482,
       "p99Ms": 2482,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rupalfasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 83.33,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 71.43,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 1597,
       "p95Ms": 1977,
       "p99Ms": 1977,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "rupalmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 1496,
       "p95Ms": 1882,
       "p99Ms": 1882,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "russnickelalloys.com",
@@ -4552,15 +4552,15 @@
     {
       "domain": "sabrametals.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 4227,
+      "p50Ms": 3947,
       "p95Ms": 6127,
       "p99Ms": 6127,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4594,21 +4594,21 @@
     {
       "domain": "saifsheetsandplates.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
-      "p50Ms": 3443,
+      "p50Ms": 4669,
       "p95Ms": 6760,
       "p99Ms": 6760,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "sakibweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -4616,13 +4616,13 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "salahfittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -4630,13 +4630,13 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "salimmarketing.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4644,13 +4644,13 @@
       "p50Ms": 7741,
       "p95Ms": 8814,
       "p99Ms": 8814,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "salmaweldingsupplies.ae",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -4658,42 +4658,42 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "samiapipes.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 57.14,
-        "90d": 57.14
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 8212,
       "p95Ms": 12282,
       "p99Ms": 12282,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "samitubefittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
-      "p50Ms": 4530,
+      "p50Ms": 4364,
       "p95Ms": 18594,
       "p99Ms": 18594,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "samuelsteels.com",
       "uptime": {
         "24h": 0,
-        "7d": 81.82,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -4706,29 +4706,29 @@
     {
       "domain": "sangmarketing.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 8336,
+      "p50Ms": 7654,
       "p95Ms": 11721,
       "p99Ms": 11721,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "santnernickelalloys.co.nz",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 4017,
+      "p50Ms": 3981,
       "p95Ms": 4876,
       "p99Ms": 4876,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4739,16 +4739,16 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 6796,
+      "p50Ms": 6359,
       "p95Ms": 12565,
       "p99Ms": 12565,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "sayedsteels.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4756,13 +4756,13 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DEGRADED"
     },
     {
       "domain": "selmiasteel.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4770,7 +4770,7 @@
       "p50Ms": 236,
       "p95Ms": 409,
       "p99Ms": 409,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4790,15 +4790,15 @@
     {
       "domain": "shanudecor.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1098,
       "p95Ms": 1098,
       "p99Ms": 1098,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -4819,7 +4819,7 @@
       "domain": "shawnflanges.us",
       "uptime": {
         "24h": 100,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 76.19,
         "90d": 76.19
       },
@@ -4851,24 +4851,24 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 6041,
+      "p50Ms": 5175,
       "p95Ms": 8085,
       "p99Ms": 8085,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "shirazflanges.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
-      "p50Ms": 7194,
+      "p50Ms": 6751,
       "p95Ms": 10985,
       "p99Ms": 10985,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4879,10 +4879,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 3314,
+      "p50Ms": 2339,
       "p95Ms": 7454,
       "p99Ms": 7454,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -4903,7 +4903,7 @@
       "domain": "simonfasteners.com",
       "uptime": {
         "24h": 0,
-        "7d": 81.82,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -4917,7 +4917,7 @@
       "domain": "siphofasteners.co.za",
       "uptime": {
         "24h": 0,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 80,
         "90d": 80
       },
@@ -4959,7 +4959,7 @@
       "domain": "smithfittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 10,
+        "7d": 11.11,
         "30d": 10,
         "90d": 10
       },
@@ -4972,7 +4972,7 @@
     {
       "domain": "stainlyweldingsupplies.co.uk",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -4980,14 +4980,14 @@
       "p50Ms": 2412,
       "p95Ms": 2816,
       "p99Ms": 2816,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "starcmetals.com",
       "uptime": {
         "24h": 0,
-        "7d": 60,
+        "7d": 55.56,
         "30d": 80,
         "90d": 80
       },
@@ -5001,7 +5001,7 @@
       "domain": "steveflanges.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 100,
         "30d": 95,
         "90d": 95
       },
@@ -5014,22 +5014,22 @@
     {
       "domain": "sumitalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 1351,
       "p95Ms": 1532,
       "p99Ms": 1532,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "supachokflanges.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -5043,7 +5043,7 @@
       "domain": "suphanatdecor.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -5061,10 +5061,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 2857,
+      "p50Ms": 2812,
       "p95Ms": 7548,
       "p99Ms": 7548,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -5085,7 +5085,7 @@
       "domain": "tanvirnickelalloys.com",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 80,
         "90d": 80
       },
@@ -5098,7 +5098,7 @@
     {
       "domain": "tanweldingsupplies.com",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -5106,42 +5106,42 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "tarikumetal.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 100,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
-      "p50Ms": 14580,
-      "p95Ms": 15467,
-      "p99Ms": 15467,
-      "sampleCount30d": 7,
-      "status": "TIMEOUT"
+      "p50Ms": 15467,
+      "p95Ms": 17387,
+      "p99Ms": 17387,
+      "sampleCount30d": 8,
+      "status": "UP"
     },
     {
       "domain": "tasmaninfotech.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
       },
       "p50Ms": 5590,
-      "p95Ms": 7183,
-      "p99Ms": 7183,
-      "sampleCount30d": 7,
+      "p95Ms": 8616,
+      "p99Ms": 8616,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "teerasilfittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -5168,22 +5168,22 @@
     {
       "domain": "thefastenersmart.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1317,
       "p95Ms": 1317,
       "p99Ms": 1317,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "thembanickelalloys.co.za",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 90,
         "90d": 90
       },
@@ -5196,7 +5196,7 @@
     {
       "domain": "thepipingmart.ae",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -5204,14 +5204,14 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DNS_FAILURE"
     },
     {
       "domain": "thongsaaluminium.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -5224,15 +5224,15 @@
     {
       "domain": "tilaktubefittings.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 3594,
       "p95Ms": 3594,
       "p99Ms": 3594,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -5281,7 +5281,7 @@
       "domain": "tolufittings.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -5295,7 +5295,7 @@
       "domain": "travissteel.com",
       "uptime": {
         "24h": 0,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 35,
         "90d": 35
       },
@@ -5309,7 +5309,7 @@
       "domain": "trungdecor.com",
       "uptime": {
         "24h": 100,
-        "7d": 70,
+        "7d": 66.67,
         "30d": 85,
         "90d": 85
       },
@@ -5379,7 +5379,7 @@
       "domain": "victornickelalloys.com",
       "uptime": {
         "24h": 0,
-        "7d": 80,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -5393,7 +5393,7 @@
       "domain": "victorsheetsandplates.com",
       "uptime": {
         "24h": 0,
-        "7d": 81.82,
+        "7d": 77.78,
         "30d": 90,
         "90d": 90
       },
@@ -5439,10 +5439,10 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1614,
+      "p50Ms": 1449,
       "p95Ms": 5826,
       "p99Ms": 5826,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -5490,7 +5490,7 @@
     {
       "domain": "vishwashweldingsupplies.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -5498,63 +5498,63 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "vivekalloys.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1142,
       "p95Ms": 1142,
       "p99Ms": 1142,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "vivekfittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1364,
       "p95Ms": 1364,
       "p99Ms": 1364,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "vivekmetalindustries.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1234,
       "p95Ms": 1234,
       "p99Ms": 1234,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "vivekmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1226,
       "p95Ms": 1226,
       "p99Ms": 1226,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -5574,16 +5574,16 @@
     {
       "domain": "walidstainless.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 0,
+        "7d": 57.14,
+        "30d": 62.5,
+        "90d": 62.5
       },
       "p50Ms": 4880,
       "p95Ms": 5699,
       "p99Ms": 5699,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "DOWN"
     },
     {
       "domain": "warnertubefittings.com",
@@ -5607,16 +5607,16 @@
         "30d": 100,
         "90d": 100
       },
-      "p50Ms": 1583,
+      "p50Ms": 1550,
       "p95Ms": 9482,
       "p99Ms": 9482,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "willsheetsandplates.co.nz",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -5624,14 +5624,14 @@
       "p50Ms": 3266,
       "p95Ms": 3885,
       "p99Ms": 3885,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "wilsondecor.us",
       "uptime": {
         "24h": 0,
-        "7d": 50,
+        "7d": 44.44,
         "30d": 60,
         "90d": 60
       },
@@ -5658,22 +5658,22 @@
     {
       "domain": "wogenefasteners.com",
       "uptime": {
-        "24h": null,
-        "7d": 50,
-        "30d": 42.86,
-        "90d": 42.86
+        "24h": 0,
+        "7d": 42.86,
+        "30d": 37.5,
+        "90d": 37.5
       },
       "p50Ms": 17975,
       "p95Ms": 19070,
       "p99Ms": 19070,
-      "sampleCount30d": 7,
-      "status": "UP"
+      "sampleCount30d": 8,
+      "status": "TIMEOUT"
     },
     {
       "domain": "xuannickelalloys.com",
       "uptime": {
         "24h": 100,
-        "7d": 90,
+        "7d": 88.89,
         "30d": 95,
         "90d": 95
       },
@@ -5686,15 +5686,15 @@
     {
       "domain": "yakoobfencing.ae",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 2653,
       "p95Ms": 2653,
       "p99Ms": 2653,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -5714,7 +5714,7 @@
     {
       "domain": "yamanweldingsupplies.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -5722,13 +5722,13 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
       "domain": "yaneltubefittings.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -5736,35 +5736,35 @@
       "p50Ms": 254,
       "p95Ms": 450,
       "p99Ms": 450,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "yashdecor.co.in",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1870,
       "p95Ms": 1870,
       "p99Ms": 1870,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
       "domain": "yashfittings.com",
       "uptime": {
-        "24h": null,
-        "7d": 16.67,
-        "30d": 14.29,
-        "90d": 14.29
+        "24h": 0,
+        "7d": 14.29,
+        "30d": 12.5,
+        "90d": 12.5
       },
       "p50Ms": 1152,
       "p95Ms": 1152,
       "p99Ms": 1152,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -5784,21 +5784,21 @@
     {
       "domain": "yazansteels.com",
       "uptime": {
-        "24h": null,
-        "7d": 66.67,
-        "30d": 71.43,
-        "90d": 71.43
+        "24h": 100,
+        "7d": 71.43,
+        "30d": 75,
+        "90d": 75
       },
       "p50Ms": 3024,
       "p95Ms": 3955,
       "p99Ms": 3955,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
       "domain": "yazeneflanges.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -5806,7 +5806,7 @@
       "p50Ms": 255,
       "p95Ms": 334,
       "p99Ms": 334,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
@@ -5827,7 +5827,7 @@
       "domain": "yodsaktubefittings.com",
       "uptime": {
         "24h": 100,
-        "7d": 20,
+        "7d": 22.22,
         "30d": 20,
         "90d": 20
       },
@@ -5840,15 +5840,15 @@
     {
       "domain": "yousefmetals.com",
       "uptime": {
-        "24h": null,
-        "7d": 33.33,
-        "30d": 28.57,
-        "90d": 28.57
+        "24h": 0,
+        "7d": 28.57,
+        "30d": 25,
+        "90d": 25
       },
       "p50Ms": 12902,
       "p95Ms": 15739,
       "p99Ms": 15739,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "TIMEOUT"
     },
     {
@@ -5882,7 +5882,7 @@
     {
       "domain": "yuvrajweldingsupplies.co.in",
       "uptime": {
-        "24h": null,
+        "24h": 0,
         "7d": 0,
         "30d": 0,
         "90d": 0
@@ -5890,7 +5890,7 @@
       "p50Ms": null,
       "p95Ms": null,
       "p99Ms": null,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "DOWN"
     },
     {
@@ -5911,7 +5911,7 @@
       "domain": "zampaaluminium.com",
       "uptime": {
         "24h": 100,
-        "7d": 60,
+        "7d": 66.67,
         "30d": 70,
         "90d": 70
       },
@@ -5924,7 +5924,7 @@
     {
       "domain": "zirenestainless.com",
       "uptime": {
-        "24h": null,
+        "24h": 100,
         "7d": 100,
         "30d": 100,
         "90d": 100
@@ -5932,7 +5932,7 @@
       "p50Ms": 239,
       "p95Ms": 410,
       "p99Ms": 410,
-      "sampleCount30d": 7,
+      "sampleCount30d": 8,
       "status": "UP"
     },
     {
