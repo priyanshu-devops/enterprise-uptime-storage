@@ -1,0 +1,16 @@
+{"timestamp":"2026-08-10T05:13:01.490Z","level":"info","message":"Loaded shard results","mode":"aggregate","runId":"31357505165","count":212,"anyAborted":false}
+{"timestamp":"2026-08-10T05:13:01.493Z","level":"info","message":"Incident lifecycle","mode":"aggregate","runId":"31357505165","opened":22,"resolved":31,"ledger":500}
+{"timestamp":"2026-08-10T05:13:02.625Z","level":"info","message":"Loaded existing rows","mode":"aggregate","runId":"31357505165","rows":424}
+{"timestamp":"2026-08-10T05:13:04.328Z","level":"info","message":"Wrote domain rows","mode":"aggregate","runId":"31357505165","updated":212,"appended":0}
+{"timestamp":"2026-08-10T05:13:04.532Z","level":"info","message":"Appended incidents","mode":"aggregate","runId":"31357505165","count":22}
+{"timestamp":"2026-08-10T05:13:04.894Z","level":"info","message":"Resolved incidents in ledger","mode":"aggregate","runId":"31357505165","requested":31,"updated":31}
+{"timestamp":"2026-08-10T05:13:05.013Z","level":"info","message":"Wrote cache files","mode":"aggregate","runId":"31357505165","files":6}
+{"timestamp":"2026-08-10T05:13:05.014Z","level":"info","message":"No alert channels configured","mode":"aggregate","runId":"31357505165","opened":22,"resolved":31}
+{"timestamp":"2026-08-10T16:32:32.420Z","level":"info","message":"Loaded shard results","mode":"aggregate","runId":"31408633448","count":424,"anyAborted":false}
+{"timestamp":"2026-08-10T16:32:32.425Z","level":"info","message":"Incident lifecycle","mode":"aggregate","runId":"31408633448","opened":71,"resolved":38,"ledger":500}
+{"timestamp":"2026-08-10T16:32:33.169Z","level":"info","message":"Loaded existing rows","mode":"aggregate","runId":"31408633448","rows":424}
+{"timestamp":"2026-08-10T16:32:34.697Z","level":"info","message":"Wrote domain rows","mode":"aggregate","runId":"31408633448","updated":424,"appended":0}
+{"timestamp":"2026-08-10T16:32:34.881Z","level":"info","message":"Appended incidents","mode":"aggregate","runId":"31408633448","count":71}
+{"timestamp":"2026-08-10T16:32:35.168Z","level":"info","message":"Resolved incidents in ledger","mode":"aggregate","runId":"31408633448","requested":38,"updated":38}
+{"timestamp":"2026-08-10T16:32:35.387Z","level":"info","message":"Wrote cache files","mode":"aggregate","runId":"31408633448","files":6}
+{"timestamp":"2026-08-10T16:32:35.387Z","level":"info","message":"No alert channels configured","mode":"aggregate","runId":"31408633448","opened":71,"resolved":38}
