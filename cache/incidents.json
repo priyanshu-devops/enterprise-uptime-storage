@@ -1,5 +1,64 @@
 [
   {
+    "id": "heerstainless.com:DOWN:2026-08-18T04:15:07.774Z",
+    "domain": "heerstainless.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-18T04:15:07.774Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "TIMEOUT: The operation was aborted due to timeout",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "jyotisteels.com:DOWN:2026-08-18T04:15:06.745Z",
+    "domain": "jyotisteels.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-18T04:15:06.745Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "TIMEOUT: The operation was aborted due to timeout",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "starcmetals.com:DOWN:2026-08-18T04:14:30.216Z",
+    "domain": "starcmetals.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-18T04:14:30.216Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.starcmetals.com:443, timeout: 10000ms)",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "bhaveshtubefittings.ae:SSL_EXPIRING:2026-08-18T04:14:01.638Z",
+    "domain": "bhaveshtubefittings.ae",
+    "type": "SSL_EXPIRING",
+    "status": "open",
+    "openedAt": "2026-08-18T04:14:01.638Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "UP",
+    "message": "SSL certificate expires in 29 day(s)",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "siphofasteners.co.za:DOWN:2026-08-17T04:16:04.324Z",
     "domain": "siphofasteners.co.za",
     "type": "DOWN",
@@ -8,12 +67,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "njabulostainless.co.za:DOWN:2026-08-17T04:16:00.327Z",
     "domain": "njabulostainless.co.za",
     "type": "DOWN",
@@ -22,12 +81,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "phehlukwayometal.co.za:DOWN:2026-08-17T04:15:56.227Z",
     "domain": "phehlukwayometal.co.za",
     "type": "DOWN",
@@ -36,12 +95,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "thembanickelalloys.co.za:DOWN:2026-08-17T04:15:53.535Z",
     "domain": "thembanickelalloys.co.za",
     "type": "DOWN",
@@ -50,12 +109,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "lyletubefittings.co.za:DOWN:2026-08-17T04:15:52.127Z",
     "domain": "lyletubefittings.co.za",
     "type": "DOWN",
@@ -64,12 +123,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "tanvirnickelalloys.com:DOWN:2026-08-17T04:13:55.147Z",
     "domain": "tanvirnickelalloys.com",
     "type": "DOWN",
@@ -78,10 +137,7 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
     "durationSeconds": null,
@@ -336,15 +392,15 @@
     "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
-    "durationSeconds": 41936,
+    "durationSeconds": 86628,
     "ackedAt": null,
     "ackedBy": "",
-    "id": "suphanatdecor.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
-    "domain": "suphanatdecor.com",
+    "id": "ragnarweldingsupplies.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
+    "domain": "ragnarweldingsupplies.com",
     "type": "SSL_EXPIRING",
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:55.177Z",
-    "resolvedAt": "2026-08-16T15:50:50.791Z",
+    "resolvedAt": "2026-08-17T04:15:42.721Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -364,15 +420,15 @@
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
   },
   {
-    "durationSeconds": 86628,
+    "durationSeconds": 41936,
     "ackedAt": null,
     "ackedBy": "",
-    "id": "ragnarweldingsupplies.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
-    "domain": "ragnarweldingsupplies.com",
+    "id": "suphanatdecor.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
+    "domain": "suphanatdecor.com",
     "type": "SSL_EXPIRING",
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:55.177Z",
-    "resolvedAt": "2026-08-17T04:15:42.721Z",
+    "resolvedAt": "2026-08-16T15:50:50.791Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -406,20 +462,6 @@
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
   },
   {
-    "durationSeconds": 41935,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "kyogaflanges.com:SSL_EXPIRING:2026-08-16T04:11:46.903Z",
-    "domain": "kyogaflanges.com",
-    "type": "SSL_EXPIRING",
-    "status": "resolved",
-    "openedAt": "2026-08-16T04:11:46.903Z",
-    "resolvedAt": "2026-08-16T15:50:42.386Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
-  },
-  {
     "durationSeconds": 86633,
     "ackedAt": null,
     "ackedBy": "",
@@ -429,6 +471,20 @@
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:46.903Z",
     "resolvedAt": "2026-08-17T04:15:39.862Z",
+    "fromStatus": "UP",
+    "toStatus": "UP",
+    "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
+  },
+  {
+    "durationSeconds": 41935,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "kyogaflanges.com:SSL_EXPIRING:2026-08-16T04:11:46.903Z",
+    "domain": "kyogaflanges.com",
+    "type": "SSL_EXPIRING",
+    "status": "resolved",
+    "openedAt": "2026-08-16T04:11:46.903Z",
+    "resolvedAt": "2026-08-16T15:50:42.386Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -1064,18 +1120,18 @@
     "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
-    "durationSeconds": null,
+    "durationSeconds": 474249,
     "ackedAt": null,
     "ackedBy": "",
     "id": "travissteel.com:DOWN:2026-08-12T16:30:37.438Z",
     "domain": "travissteel.com",
     "type": "DOWN",
-    "status": "open",
+    "status": "resolved",
     "openedAt": "2026-08-12T16:30:37.438Z",
-    "resolvedAt": null,
+    "resolvedAt": "2026-08-18T04:14:46.282Z",
     "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: travissteel.com:443, timeout: 10000ms)"
+    "toStatus": "UP",
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: travissteel.com:443, timeout: 10000ms) — recovered (now UP)"
   },
   {
     "durationSeconds": null,
@@ -6939,62 +6995,6 @@
     "status": "resolved",
     "openedAt": "2026-07-31T06:32:44.640Z",
     "resolvedAt": "2026-07-31T17:09:17.925Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
-  },
-  {
-    "durationSeconds": 38173,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "nakamurastainless.com:DOWN:2026-07-31T06:32:42.092Z",
-    "domain": "nakamurastainless.com",
-    "type": "DOWN",
-    "status": "resolved",
-    "openedAt": "2026-07-31T06:32:42.092Z",
-    "resolvedAt": "2026-07-31T17:08:55.158Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
-  },
-  {
-    "durationSeconds": 38203,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "ragnarweldingsupplies.com:DOWN:2026-07-31T06:32:37.646Z",
-    "domain": "ragnarweldingsupplies.com",
-    "type": "DOWN",
-    "status": "resolved",
-    "openedAt": "2026-07-31T06:32:37.646Z",
-    "resolvedAt": "2026-07-31T17:09:20.827Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
-  },
-  {
-    "durationSeconds": 38190,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "imranfittings.com:DOWN:2026-07-31T06:31:11.120Z",
-    "domain": "imranfittings.com",
-    "type": "DOWN",
-    "status": "resolved",
-    "openedAt": "2026-07-31T06:31:11.120Z",
-    "resolvedAt": "2026-07-31T17:07:41.199Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "HTTP 500 on imranfittings.com — recovered (now UP)"
-  },
-  {
-    "durationSeconds": 38203,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "tanvirnickelalloys.com:DOWN:2026-07-31T06:31:09.960Z",
-    "domain": "tanvirnickelalloys.com",
-    "type": "DOWN",
-    "status": "resolved",
-    "openedAt": "2026-07-31T06:31:09.960Z",
-    "resolvedAt": "2026-07-31T17:07:53.194Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
