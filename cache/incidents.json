@@ -1,5 +1,64 @@
 [
   {
+    "id": "travissteel.com:DOWN:2026-08-19T04:11:50.761Z",
+    "domain": "travissteel.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-19T04:11:50.761Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: travissteel.com:443, timeout: 10000ms)",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "joshsheetsandplates.com:DOWN:2026-08-19T04:11:49.764Z",
+    "domain": "joshsheetsandplates.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-19T04:11:49.764Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: joshsheetsandplates.com:443, timeout: 10000ms)",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "adamstainless.com:DOWN:2026-08-19T04:11:18.325Z",
+    "domain": "adamstainless.com",
+    "type": "DOWN",
+    "status": "open",
+    "openedAt": "2026-08-19T04:11:18.325Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "DOWN",
+    "message": "HTTP 500 on adamstainless.com",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "id": "bilalfasteners.id:DNS_FAILURE:2026-08-19T04:08:45.649Z",
+    "domain": "bilalfasteners.id",
+    "type": "DNS_FAILURE",
+    "status": "open",
+    "openedAt": "2026-08-19T04:08:45.649Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "DNS_FAILURE",
+    "message": "DNS resolution failed for bilalfasteners.id",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": ""
+  },
+  {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "arihantnickelalloys.com:DOWN:2026-08-18T16:05:32.866Z",
     "domain": "arihantnickelalloys.com",
     "type": "DOWN",
@@ -8,12 +67,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: arihantnickelalloys.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: arihantnickelalloys.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "adarshnickelalloys.com:DOWN:2026-08-18T16:05:32.157Z",
     "domain": "adarshnickelalloys.com",
     "type": "DOWN",
@@ -22,12 +81,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: adarshnickelalloys.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: adarshnickelalloys.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "chetansteel.com:DOWN:2026-08-18T16:05:29.953Z",
     "domain": "chetansteel.com",
     "type": "DOWN",
@@ -36,12 +95,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.chetansteel.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.chetansteel.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rathinfotechdelhi.in:DOWN:2026-08-18T16:04:37.021Z",
     "domain": "rathinfotechdelhi.in",
     "type": "DOWN",
@@ -50,12 +109,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechdelhi.in:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechdelhi.in:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rathinfotechbangalore.in:DOWN:2026-08-18T16:04:33.601Z",
     "domain": "rathinfotechbangalore.in",
     "type": "DOWN",
@@ -64,12 +123,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechbangalore.in:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechbangalore.in:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "farmaanmarketing.ae:DOWN:2026-08-18T16:04:33.518Z",
     "domain": "farmaanmarketing.ae",
     "type": "DOWN",
@@ -78,12 +137,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: farmaanmarketing.ae:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: farmaanmarketing.ae:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rathinfotechmumbai.in:DOWN:2026-08-18T16:04:33.486Z",
     "domain": "rathinfotechmumbai.in",
     "type": "DOWN",
@@ -92,12 +151,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: rathinfotechmumbai.in:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: rathinfotechmumbai.in:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rathinfotechhyderabad.in:DOWN:2026-08-18T16:04:32.981Z",
     "domain": "rathinfotechhyderabad.in",
     "type": "DOWN",
@@ -106,12 +165,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechhyderabad.in:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rathinfotechhyderabad.in:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "walidstainless.com:SSL_EXPIRING:2026-08-18T16:04:05.664Z",
     "domain": "walidstainless.com",
     "type": "SSL_EXPIRING",
@@ -120,26 +179,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "UP",
-    "message": "SSL certificate expires in 29 day(s)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "SSL certificate expires in 29 day(s)"
   },
   {
-    "id": "samiapipes.com:SSL_EXPIRING:2026-08-18T16:03:56.108Z",
-    "domain": "samiapipes.com",
-    "type": "SSL_EXPIRING",
-    "status": "open",
-    "openedAt": "2026-08-18T16:03:56.108Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
     "durationSeconds": null,
     "ackedAt": null,
-    "ackedBy": ""
-  },
-  {
+    "ackedBy": "",
     "id": "samiapipes.com:DOWN:2026-08-18T16:03:56.108Z",
     "domain": "samiapipes.com",
     "type": "DOWN",
@@ -148,12 +193,26 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "samiapipes.com:SSL_EXPIRING:2026-08-18T16:03:56.108Z",
+    "domain": "samiapipes.com",
+    "type": "SSL_EXPIRING",
+    "status": "open",
+    "openedAt": "2026-08-18T16:03:56.108Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "SSL certificate expires in 29 day(s)"
+  },
+  {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rachedflanges.com:DOWN:2026-08-18T16:03:53.661Z",
     "domain": "rachedflanges.com",
     "type": "DOWN",
@@ -162,12 +221,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "hatemfittings.com:DOWN:2026-08-18T16:03:53.133Z",
     "domain": "hatemfittings.com",
     "type": "DOWN",
@@ -176,26 +235,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
-    "id": "samitubefittings.com:SSL_EXPIRING:2026-08-18T16:03:50.055Z",
-    "domain": "samitubefittings.com",
-    "type": "SSL_EXPIRING",
-    "status": "open",
-    "openedAt": "2026-08-18T16:03:50.055Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
     "durationSeconds": null,
     "ackedAt": null,
-    "ackedBy": ""
-  },
-  {
+    "ackedBy": "",
     "id": "samitubefittings.com:DOWN:2026-08-18T16:03:50.055Z",
     "domain": "samitubefittings.com",
     "type": "DOWN",
@@ -204,12 +249,26 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "samitubefittings.com:SSL_EXPIRING:2026-08-18T16:03:50.055Z",
+    "domain": "samitubefittings.com",
+    "type": "SSL_EXPIRING",
+    "status": "open",
+    "openedAt": "2026-08-18T16:03:50.055Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "SSL certificate expires in 29 day(s)"
+  },
+  {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "marzouksteel.com:SSL_EXPIRING:2026-08-18T16:03:49.565Z",
     "domain": "marzouksteel.com",
     "type": "SSL_EXPIRING",
@@ -218,26 +277,12 @@
     "resolvedAt": null,
     "fromStatus": "TIMEOUT",
     "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "SSL certificate expires in 29 day(s)"
   },
   {
-    "id": "hajjiweldingsupplies.com:SSL_EXPIRING:2026-08-18T16:03:41.417Z",
-    "domain": "hajjiweldingsupplies.com",
-    "type": "SSL_EXPIRING",
-    "status": "open",
-    "openedAt": "2026-08-18T16:03:41.417Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
     "durationSeconds": null,
     "ackedAt": null,
-    "ackedBy": ""
-  },
-  {
+    "ackedBy": "",
     "id": "hajjiweldingsupplies.com:DOWN:2026-08-18T16:03:41.417Z",
     "domain": "hajjiweldingsupplies.com",
     "type": "DOWN",
@@ -246,26 +291,26 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
-    "id": "nabilnickelalloys.com:SSL_EXPIRING:2026-08-18T16:03:40.025Z",
-    "domain": "nabilnickelalloys.com",
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "hajjiweldingsupplies.com:SSL_EXPIRING:2026-08-18T16:03:41.417Z",
+    "domain": "hajjiweldingsupplies.com",
     "type": "SSL_EXPIRING",
     "status": "open",
-    "openedAt": "2026-08-18T16:03:40.025Z",
+    "openedAt": "2026-08-18T16:03:41.417Z",
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "SSL certificate expires in 29 day(s)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "nabilnickelalloys.com:DOWN:2026-08-18T16:03:40.025Z",
     "domain": "nabilnickelalloys.com",
     "type": "DOWN",
@@ -274,12 +319,26 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "nabilnickelalloys.com:SSL_EXPIRING:2026-08-18T16:03:40.025Z",
+    "domain": "nabilnickelalloys.com",
+    "type": "SSL_EXPIRING",
+    "status": "open",
+    "openedAt": "2026-08-18T16:03:40.025Z",
+    "resolvedAt": null,
+    "fromStatus": "UP",
+    "toStatus": "TIMEOUT",
+    "message": "SSL certificate expires in 29 day(s)"
+  },
+  {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "mouradmetals.com:SSL_EXPIRING:2026-08-18T16:03:34.190Z",
     "domain": "mouradmetals.com",
     "type": "SSL_EXPIRING",
@@ -288,12 +347,12 @@
     "resolvedAt": null,
     "fromStatus": "TIMEOUT",
     "toStatus": "TIMEOUT",
-    "message": "SSL certificate expires in 29 day(s)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "SSL certificate expires in 29 day(s)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rupalmetals.com:SSL_EXPIRING:2026-08-18T16:01:50.779Z",
     "domain": "rupalmetals.com",
     "type": "SSL_EXPIRING",
@@ -302,12 +361,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "UP",
-    "message": "SSL certificate expires in 29 day(s)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "SSL certificate expires in 29 day(s)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "khaledstainless.com:DOWN:2026-08-18T16:01:11.844Z",
     "domain": "khaledstainless.com",
     "type": "DOWN",
@@ -316,12 +375,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: khaledstainless.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: khaledstainless.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "lathiefpipes.com:DOWN:2026-08-18T16:00:47.742Z",
     "domain": "lathiefpipes.com",
     "type": "DOWN",
@@ -330,12 +389,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.lathiefpipes.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.lathiefpipes.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "shirazflanges.com:DOWN:2026-08-18T16:00:47.689Z",
     "domain": "shirazflanges.com",
     "type": "DOWN",
@@ -344,12 +403,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.shirazflanges.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.shirazflanges.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "anwartubefittings.com:DOWN:2026-08-18T16:00:46.316Z",
     "domain": "anwartubefittings.com",
     "type": "DOWN",
@@ -358,12 +417,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.anwartubefittings.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.anwartubefittings.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "imranfittings.com:DOWN:2026-08-18T16:00:44.614Z",
     "domain": "imranfittings.com",
     "type": "DOWN",
@@ -372,12 +431,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: imranfittings.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: imranfittings.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "rizwanflanges.com:DOWN:2026-08-18T16:00:44.552Z",
     "domain": "rizwanflanges.com",
     "type": "DOWN",
@@ -386,12 +445,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rizwanflanges.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.rizwanflanges.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "alialuminium.com:DOWN:2026-08-18T16:00:42.476Z",
     "domain": "alialuminium.com",
     "type": "DOWN",
@@ -400,12 +459,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.alialuminium.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.alialuminium.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "ahmersteels.com:DOWN:2026-08-18T16:00:40.384Z",
     "domain": "ahmersteels.com",
     "type": "DOWN",
@@ -414,12 +473,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: ahmersteels.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: ahmersteels.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "nasirnickelalloys.com:DOWN:2026-08-18T16:00:40.121Z",
     "domain": "nasirnickelalloys.com",
     "type": "DOWN",
@@ -428,12 +487,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.nasirnickelalloys.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.nasirnickelalloys.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "monibstainless.com:DOWN:2026-08-18T16:00:40.077Z",
     "domain": "monibstainless.com",
     "type": "DOWN",
@@ -442,12 +501,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.monibstainless.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.monibstainless.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "aminfasteners.com:DOWN:2026-08-18T16:00:38.368Z",
     "domain": "aminfasteners.com",
     "type": "DOWN",
@@ -456,12 +515,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.aminfasteners.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.aminfasteners.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "bilalnickelalloys.com:DOWN:2026-08-18T16:00:38.032Z",
     "domain": "bilalnickelalloys.com",
     "type": "DOWN",
@@ -470,12 +529,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.bilalnickelalloys.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.bilalnickelalloys.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "nimishmetal.com:DOWN:2026-08-18T16:00:37.116Z",
     "domain": "nimishmetal.com",
     "type": "DOWN",
@@ -484,12 +543,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.nimishmetal.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.nimishmetal.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "tarikumetal.com:DOWN:2026-08-18T16:00:03.333Z",
     "domain": "tarikumetal.com",
     "type": "DOWN",
@@ -498,12 +557,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.tarikumetal.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.tarikumetal.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "hazemstainless.com:DOWN:2026-08-18T16:00:02.962Z",
     "domain": "hazemstainless.com",
     "type": "DOWN",
@@ -512,12 +571,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.hazemstainless.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.hazemstainless.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "bereketpipes.com:DOWN:2026-08-18T16:00:02.809Z",
     "domain": "bereketpipes.com",
     "type": "DOWN",
@@ -526,12 +585,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.bereketpipes.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.bereketpipes.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "ahmedpipes.com:DOWN:2026-08-18T16:00:02.717Z",
     "domain": "ahmedpipes.com",
     "type": "DOWN",
@@ -540,12 +599,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.ahmedpipes.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.ahmedpipes.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "muradfasteners.com:DOWN:2026-08-18T16:00:02.686Z",
     "domain": "muradfasteners.com",
     "type": "DOWN",
@@ -554,12 +613,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.muradfasteners.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.muradfasteners.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "jassemtubefittings.com:DOWN:2026-08-18T16:00:02.568Z",
     "domain": "jassemtubefittings.com",
     "type": "DOWN",
@@ -568,12 +627,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.jassemtubefittings.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.jassemtubefittings.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "hashmisheetsandplates.com:DOWN:2026-08-18T16:00:02.510Z",
     "domain": "hashmisheetsandplates.com",
     "type": "DOWN",
@@ -582,12 +641,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.hashmisheetsandplates.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: www.hashmisheetsandplates.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "habtamunickelalloys.com:DOWN:2026-08-18T16:00:02.452Z",
     "domain": "habtamunickelalloys.com",
     "type": "DOWN",
@@ -596,12 +655,12 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: habtamunickelalloys.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: habtamunickelalloys.com:443, timeout: 10000ms)"
   },
   {
+    "durationSeconds": null,
+    "ackedAt": null,
+    "ackedBy": "",
     "id": "haideraluminium.com:DOWN:2026-08-18T16:00:01.498Z",
     "domain": "haideraluminium.com",
     "type": "DOWN",
@@ -610,10 +669,7 @@
     "resolvedAt": null,
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: haideraluminium.com:443, timeout: 10000ms)",
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": ""
+    "message": "TIMEOUT: Connect Timeout Error (attempted address: haideraluminium.com:443, timeout: 10000ms)"
   },
   {
     "durationSeconds": null,
@@ -630,18 +686,18 @@
     "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
-    "durationSeconds": null,
+    "durationSeconds": 86258,
     "ackedAt": null,
     "ackedBy": "",
     "id": "jyotisteels.com:DOWN:2026-08-18T04:15:06.745Z",
     "domain": "jyotisteels.com",
     "type": "DOWN",
-    "status": "open",
+    "status": "resolved",
     "openedAt": "2026-08-18T04:15:06.745Z",
-    "resolvedAt": null,
+    "resolvedAt": "2026-08-19T04:12:44.866Z",
     "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout"
+    "toStatus": "UP",
+    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
     "durationSeconds": null,
@@ -658,18 +714,18 @@
     "message": "TIMEOUT: Connect Timeout Error (attempted address: www.starcmetals.com:443, timeout: 10000ms)"
   },
   {
-    "durationSeconds": null,
+    "durationSeconds": 86240,
     "ackedAt": null,
     "ackedBy": "",
     "id": "bhaveshtubefittings.ae:SSL_EXPIRING:2026-08-18T04:14:01.638Z",
     "domain": "bhaveshtubefittings.ae",
     "type": "SSL_EXPIRING",
-    "status": "open",
+    "status": "resolved",
     "openedAt": "2026-08-18T04:14:01.638Z",
-    "resolvedAt": null,
+    "resolvedAt": "2026-08-19T04:11:21.211Z",
     "fromStatus": "UP",
     "toStatus": "UP",
-    "message": "SSL certificate expires in 29 day(s)"
+    "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
   },
   {
     "durationSeconds": null,
@@ -714,18 +770,18 @@
     "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
-    "durationSeconds": null,
+    "durationSeconds": 172551,
     "ackedAt": null,
     "ackedBy": "",
     "id": "thembanickelalloys.co.za:DOWN:2026-08-17T04:15:53.535Z",
     "domain": "thembanickelalloys.co.za",
     "type": "DOWN",
-    "status": "open",
+    "status": "resolved",
     "openedAt": "2026-08-17T04:15:53.535Z",
-    "resolvedAt": null,
+    "resolvedAt": "2026-08-19T04:11:44.699Z",
     "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout"
+    "toStatus": "UP",
+    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
     "durationSeconds": null,
@@ -742,18 +798,18 @@
     "message": "TIMEOUT: The operation was aborted due to timeout"
   },
   {
-    "durationSeconds": null,
+    "durationSeconds": 172563,
     "ackedAt": null,
     "ackedBy": "",
     "id": "tanvirnickelalloys.com:DOWN:2026-08-17T04:13:55.147Z",
     "domain": "tanvirnickelalloys.com",
     "type": "DOWN",
-    "status": "open",
+    "status": "resolved",
     "openedAt": "2026-08-17T04:13:55.147Z",
-    "resolvedAt": null,
+    "resolvedAt": "2026-08-19T04:09:58.137Z",
     "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: The operation was aborted due to timeout"
+    "toStatus": "UP",
+    "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
     "durationSeconds": 173465,
@@ -1008,15 +1064,15 @@
     "message": "TIMEOUT: The operation was aborted due to timeout — recovered (now UP)"
   },
   {
-    "durationSeconds": 41936,
+    "durationSeconds": 86628,
     "ackedAt": null,
     "ackedBy": "",
-    "id": "suphanatdecor.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
-    "domain": "suphanatdecor.com",
+    "id": "ragnarweldingsupplies.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
+    "domain": "ragnarweldingsupplies.com",
     "type": "SSL_EXPIRING",
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:55.177Z",
-    "resolvedAt": "2026-08-16T15:50:50.791Z",
+    "resolvedAt": "2026-08-17T04:15:42.721Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -1036,15 +1092,15 @@
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
   },
   {
-    "durationSeconds": 86628,
+    "durationSeconds": 41936,
     "ackedAt": null,
     "ackedBy": "",
-    "id": "ragnarweldingsupplies.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
-    "domain": "ragnarweldingsupplies.com",
+    "id": "suphanatdecor.com:SSL_EXPIRING:2026-08-16T04:11:55.177Z",
+    "domain": "suphanatdecor.com",
     "type": "SSL_EXPIRING",
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:55.177Z",
-    "resolvedAt": "2026-08-17T04:15:42.721Z",
+    "resolvedAt": "2026-08-16T15:50:50.791Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -1078,20 +1134,6 @@
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
   },
   {
-    "durationSeconds": 41935,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "kyogaflanges.com:SSL_EXPIRING:2026-08-16T04:11:46.903Z",
-    "domain": "kyogaflanges.com",
-    "type": "SSL_EXPIRING",
-    "status": "resolved",
-    "openedAt": "2026-08-16T04:11:46.903Z",
-    "resolvedAt": "2026-08-16T15:50:42.386Z",
-    "fromStatus": "UP",
-    "toStatus": "UP",
-    "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
-  },
-  {
     "durationSeconds": 86633,
     "ackedAt": null,
     "ackedBy": "",
@@ -1101,6 +1143,20 @@
     "status": "resolved",
     "openedAt": "2026-08-16T04:11:46.903Z",
     "resolvedAt": "2026-08-17T04:15:39.862Z",
+    "fromStatus": "UP",
+    "toStatus": "UP",
+    "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
+  },
+  {
+    "durationSeconds": 41935,
+    "ackedAt": null,
+    "ackedBy": "",
+    "id": "kyogaflanges.com:SSL_EXPIRING:2026-08-16T04:11:46.903Z",
+    "domain": "kyogaflanges.com",
+    "type": "SSL_EXPIRING",
+    "status": "resolved",
+    "openedAt": "2026-08-16T04:11:46.903Z",
+    "resolvedAt": "2026-08-16T15:50:42.386Z",
     "fromStatus": "UP",
     "toStatus": "UP",
     "message": "SSL certificate expires in 29 day(s) — certificate renewed (89d remaining)"
@@ -6942,61 +6998,5 @@
     "fromStatus": "UP",
     "toStatus": "TIMEOUT",
     "message": "TIMEOUT: Connect Timeout Error (attempted address: yashdecor.co.in:443, timeout: 10000ms)"
-  },
-  {
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "rameshwarsteel.co.in:DOWN:2026-07-31T17:09:08.771Z",
-    "domain": "rameshwarsteel.co.in",
-    "type": "DOWN",
-    "status": "open",
-    "openedAt": "2026-07-31T17:09:08.771Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: rameshwarsteel.co.in:443, timeout: 10000ms)"
-  },
-  {
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "purifasteners.co.in:DOWN:2026-07-31T17:09:08.387Z",
-    "domain": "purifasteners.co.in",
-    "type": "DOWN",
-    "status": "open",
-    "openedAt": "2026-07-31T17:09:08.387Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: purifasteners.co.in:443, timeout: 10000ms)"
-  },
-  {
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "shanudecor.co.in:DOWN:2026-07-31T17:09:07.973Z",
-    "domain": "shanudecor.co.in",
-    "type": "DOWN",
-    "status": "open",
-    "openedAt": "2026-07-31T17:09:07.973Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: shanudecor.co.in:443, timeout: 10000ms)"
-  },
-  {
-    "durationSeconds": null,
-    "ackedAt": null,
-    "ackedBy": "",
-    "id": "tilaktubefittings.co.in:DOWN:2026-07-31T17:09:06.972Z",
-    "domain": "tilaktubefittings.co.in",
-    "type": "DOWN",
-    "status": "open",
-    "openedAt": "2026-07-31T17:09:06.972Z",
-    "resolvedAt": null,
-    "fromStatus": "UP",
-    "toStatus": "TIMEOUT",
-    "message": "TIMEOUT: Connect Timeout Error (attempted address: tilaktubefittings.co.in:443, timeout: 10000ms)"
   }
 ]
